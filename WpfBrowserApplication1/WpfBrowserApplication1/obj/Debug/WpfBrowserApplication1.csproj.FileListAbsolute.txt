@@ -1,0 +1,17 @@
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.exe.manifest
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.xbap
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.exe
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.pdb
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.csprojResolveAssemblyReference.cache
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\Page1.baml
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\Page1.g.cs
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\App.g.cs
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1_MarkupCompile.cache
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.g.resources
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.Properties.Resources.resources
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.csproj.GenerateResource.Cache
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.TrustInfo.xml
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.exe.manifest
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.xbap
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.exe
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.pdb
